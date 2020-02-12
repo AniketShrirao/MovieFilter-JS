@@ -110,6 +110,7 @@ header {
   padding: 10px 0;
   background-color: #2b2e37;
 }
+
 header .wrapper {
   display: -webkit-box;
   display: flex;
