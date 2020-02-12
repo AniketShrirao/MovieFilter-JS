@@ -106,12 +106,18 @@ li {
 /*=================================
   Header styling starts here
 =================================*/
-
-
-
-
-
-
+header {
+  padding: 10px 0;
+  background-color: #2b2e37;
+}
+header .wrapper {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+}
 /*=================================
   Header styling ends here
 =================================*/  
