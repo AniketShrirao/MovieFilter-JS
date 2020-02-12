@@ -208,12 +208,12 @@ main p {padding: 20px;}
   footer styling starts here
 =================================*/ 
 
-
-
-
-
-
-
+footer {
+  padding: 10px 0;
+  background-color: #2b2e37;
+  color: #fff;
+  text-align: center;
+}
  /*=================================
   footer styling ends here
 =================================*/ 
