@@ -111,6 +111,8 @@ li {
 header {
   padding: 10px 0;
   background-color: #2b2e37;
+  position: fixed;
+  width: 100%;
 }
 
 header .wrapper,
@@ -210,7 +212,7 @@ main p {
   border-radius: 14px;
   margin: 10px 2%;
   flex-basis: 50%;
-  height: 100vh;
+  margin-bottom: 80px;
 }
 /*=================================
   main styling ends here
@@ -226,7 +228,7 @@ footer {
   bottom: 0;
   background-color: #2b2e37;
   color: #fff;
-  position: absolute;
+  position: fixed;
   text-align: center;
 }
  /*=================================
